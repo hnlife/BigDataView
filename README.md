@@ -10,6 +10,12 @@
   <a href='https://gitee.com/iGaoWei/big-data-view/members'><img src='https://gitee.com/iGaoWei/big-data-view/badge/fork.svg?theme=white' alt='fork'></img></a>
 </p>
 
+
+本项目 CDN 加速及安全防护由  <a href="https://edgeone.ai/">Tencent EdgeOne </a> 赞助
+<a href="https://edgeone.ai/"><img src="https://edgeone.ai/media/34fe3a45-492d-4ea4-ae5d-ea1087ca7b4b.png" alt="Tencent EdgeOne"></a>
+
+
+
 #### 项目背景
 由于自己公司项目里面用到一个数据可视化大屏页面，自己网上各种谷歌百度，发现资源良莠不齐，而且大多数都是收费的，甚至一个页面一收费的那种，前前后后自己不管是付费的还是免费的收集了不少，于是自己打算整理下，免费分享给大家，以免大家再走冤枉路。如果大家有珍藏的好模板，欢迎大家继续补充贡献！！！
 
@@ -570,3 +576,5 @@ git clone https://github.com/iGaoWei/BigDataView.git
 </div>
 
 [![陌生人/BigDataView](https://gitee.com/iGaoWei/big-data-view/widgets/widget_card.svg?colors=4183c4,ffffff,ffffff,e3e9ed,666666,9b9b9b)](https://gitee.com/iGaoWei/big-data-view)
+
+
